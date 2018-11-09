@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WriteALetterToFuture</string>
+    <string name="write_letter">Write Letter</string>
+    <string name="borderless_button">BORDERLESS BUTTON</string>
+    <string name="borderless_button_styled">BORDERLESS BUTTON STYLED</string>
+    <string name="button">Button</string>
+</resources>
